@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define tamanhovetor 6
-#include funcs.h
+#include "funcs.h"
 
 int main() {
 
@@ -12,3 +12,4 @@ int main() {
 
     return 0;
 }
+
